@@ -1,1 +1,4 @@
-
+In this project, I have used Amazon fine food review. The dataset has 10 columns and more than half million rows. The dataset has three main columns 
+which are summary, text and score. Mainly the socre is notjing but ratings within range 1-5. Since the dataset is huge and my local machine is not good enough to handle whole dataset so i decided to work with 100000 records.
+I have taken 50000 from negative ratings and 50000 from positive ratings. At last I have applied some regular classifier to sentiment analysis.
+Thank you.
